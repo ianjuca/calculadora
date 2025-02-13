@@ -17,8 +17,7 @@ body {
 }
 
 div {
-    background: linear-gradient(191.34deg,#17181a -4.95%, #17181a 103.74%);
-    background-repeat: no-repeat;
+    background-color: #17181a;
     width: 375px;
     height: 568px;
     border-radius: 35px;
